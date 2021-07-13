@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1624203697 source:c:\users\lenovo\documents\anyair\unsam\2do cuatrimestre\laboratorio ii\proyecto_final\ericson_pabon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	"anya_pabon.h"
+
+1624199755 c:\users\lenovo\documents\anyair\unsam\2do cuatrimestre\laboratorio ii\proyecto_final\ericson_pabon\anya_pabon.h
+	<stdio.h>
+
+1624204261 source:c:\users\lenovo\documents\anyair\unsam\2do cuatrimestre\laboratorio ii\proyecto_final\ericson_pabon\anya_pabon.c
+	"anya_pabon.h"
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
